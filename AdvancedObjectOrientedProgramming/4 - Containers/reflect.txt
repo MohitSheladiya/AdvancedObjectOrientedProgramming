@@ -1,0 +1,11 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          10/10/21
+*/
+// I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+This week’s lectures helped me understand the concept of implementing of the composition and aggregation as well as their move function and copy function. Composition is a type of relationship that states that the child class cannot exist if separated from the parent class whereas, aggregation states that a child class can exist even if it is separated from the parent class. To implement composition, we designate one class with another, when the parent class is deconstructed, the child class will perish because of the composition. Whereas to implement aggregation, we designate a class outside of other class and then pass a pointer to the parent class, as we know that the relation is independent of each other so if parent class is deconstructed then the child class will not be affected and will function uninterrupted. 
+Difference between the implementations of move and copy functions in a composition and an aggregation is that in composition the functions will be responsible for allocation and destruction whereas in aggregation the functions will not be responsible for allocation and destruction, but they will copy and move the pointer. 
+While doing this code I learned how to use substr(), find(), erase(), find_first_not_of() and stoi(), these functions helped me take necessary parts of a string and separate them as I wanted them to. I also learned how to use composition, aggregation and association relations by coding the program.

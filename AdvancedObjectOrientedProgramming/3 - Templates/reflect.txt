@@ -1,0 +1,10 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          03/10/21
+*/
+// I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+
+This week’s workshop was very useful as it taught us the concepts of function Templates. We learned many different things, one of them us difference between class variables (templates) and class templates and how to declare them. The reason behind the specializing the “operator+=()” was to accept arguments as string datatypes, after doing so we had to add them to make one, so that we could get the desired output. I had difficulties with this part as I was very confused as of how to write the template function, but I figured it out with the help of professor’s lecture. PairSummable.h was the most challenging part of the workshop I faced, this section taught me the most comparing to others. I learned how to use static keyword with templates, virtual keyword, and so on. I learned the reason why the static class variables have to be initialized outside the class, it’s because the variables are different from an instantiated object and must be given different memory address. 

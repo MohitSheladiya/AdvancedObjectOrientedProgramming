@@ -1,0 +1,11 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          3/12/21
+*/
+// I have done all the writing by myself.
+
+This project has been a great resource as it helped me test my knowledge by covering almost every topic taught by the professor over the semester. I faced some difficulties while solving milestone 3 which contained two new modules, ‘Workstation.cpp’ and ‘LineManager.cpp’. In ‘Workstation.cpp’, function ‘attemptToMoveOrder()’ was bit tricky as I was not able to move data properly but after going through notes and lectures again, I overcame the challenge. After finishing these two modules I still had an error in output so I had to change ‘CustomerOrder.cpp’, specifically function ‘fillItem()’ so that it would give the right output. 
+This semester has taught me a great deal, precisely “OOP 345”. I learned a lot of new stuff with C++ which would most definitely help me in the future to secure a job as well as understand new programming languages easily. All this achievement would not have been possible without our professor, Jeevan Pant who helped us in every way possible including sharing fantastic examples, explaining how a program works, how we can make it efficient, and so on. Sometimes I wasn’t able to attend his lectures due to certain reasons but I benefitted greatly from his recorded videos. I hope all my future professors have a similar mindset as him.
+

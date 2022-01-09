@@ -1,0 +1,10 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          12/11/21
+*/
+// I have done all the writing and coding by myself.
+
+This week’s workshop was unique as we had to use STL algorithms instead of normal “for” or “while” loops. I used “for_each” in various functions which helped me loop with in a specific range i.e. start to end and also helped me apply changes to class parameters with the help of third parameter. As an example, “for_each(song.begin(), song.end(), [](Song& s)”	 here the first two parameters are starting and ending we need, and the third is to be checked and changed. This was used in “void display(std::ostream& out) const”, “void clearAlbum()”, “list<Song> getSongsForArtist(string s)”. I also used “any_of”, which also has three parameters, the first 2 for start and end, and the third for satisfying condition. I used it in “bool inCollection(string s)” which helped me get boolean value as required. Other algorithm I used was “std::sort” which had the ability to compare 3rd and 4th parameters which were objects (I compared object’s specific parameter example, Length, by writing obj1.length), 1st parameter was the starting and 2nd was the ending. “sort” was used in “void sort(string s)”. Last algorithm was “accumulate()” used in “void display(std::ostream& out) const” for getting sum of songs’ length.
+The advantages of using STL algorithms vs implementing the functionality by using loops is that it helps with faster development because STL algorithms doesn’t require to us to write the algorithm, it’s pre-defined. This makes the program short with less code. 

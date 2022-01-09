@@ -1,0 +1,10 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          21/09/19
+*/
+// I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+This week’s workshop was very useful because it taught us the concepts of external and internal linkage. Mainly external linkage is a type of linkage which refers to linkages across multiple translation units (modules). This workshop can give us a clear idea of how this type of linkage can be used, as an example, we have used the variable ‘g_sysClock’ which is used in multiple modules, at some places ‘g_sysClock’ is defines using the term ‘extern’ which specifies that the variable ‘g_sysClock’ is predefined in another module/transition unit so that we can use it in event.cpp.
+We also learned how and when to use various data types (long, unsigned long, and so on). The new term we learned this week was ‘static’.  Use of the term ‘static’ before writing datatype in a function can help us save the value of the variable so that when we call the function multiple times the value does not change to the first initialized variable’s value. Part 2 of the workshop was a bit tricky but anyhow with the help of the professor’s lecture I was able to figure out the way to do it. I added an operator overload function and changes a bit of set() function and also added a destructor.

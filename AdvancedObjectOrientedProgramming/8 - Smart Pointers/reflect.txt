@@ -1,0 +1,11 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          21/11/21
+*/
+// I have done all the writing by myself.
+
+
+Workshop 8 has been an incredible lab which has helped me a lot to understand smart pointers and their syntax. The advantages of using smart pointer syntax are that we do not need to deallocate every possible exit point so that we would not face a memory leak. Smart pointers also help free the memory in case of any exceptions. We can even say that they can manage memory automatically. As an example, I used smart and raw pointers in Utilities.cpp’s “mergeSmart” function and “mergeRaw” function, here “mergeSmart” which had smart pointers didn’t required to delete the pointers because of the predefined method or automatic memory  management whereas, in the “mergeRaw” which contained raw pointers had to be deleted via syntax so that they would not cause any memory leaks. The keyword that I used to implement smart pointers was “unique_ptr”. This workshop has taught me how I can shorten my future programs and make them more efficient. 
+

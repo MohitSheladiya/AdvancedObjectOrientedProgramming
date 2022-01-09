@@ -1,0 +1,12 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          07/11/21
+*/
+// I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+
+This week’s class and workshop helped me learn how to use vector. It is a part of STL or standard template library. Here the containers are represented as templates which is beneficial because it helps in reusing the code. In short, its purpose is to handle the elements which are in the structure of the data. 
+I also learned algorithms and file stream objects this week which helped me know new concepts of c++, I faced some difficulties with “Car.cpp” module. The problem I faced was with one argument constructor “Car(std::istream& in)” was logical but after carefully reading the question, I was able to find the error and complete the program.
+I used “std::list<sdds::Vehicle*>” and “std::vector<sdds::Vehicle*>” but instead I could have not used “std::list<sdds::Vehicle>” and “std::vector<sdds::Vehicle>” because without “*” it would be a static type and would have only specified the hierarchy whereas, with “*” it helped me create a container which have managed elements (all elements are polymorphic object here). 

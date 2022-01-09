@@ -1,0 +1,12 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          16/10/21
+*/
+// I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+This week’s classes and workshop taught us implementations and utilizations of a lambda expression and a functor. The difference between the two is that a lambda expression’s constructor is in lined into a function and does not require a separate class whereas, a functor requires a different class and is much more complicated than lambda. Moreover, I also learned error handling by using its various keywords i.e., try, catch, and throw. 
+The classes Movie and Book contain almost identical logic in loading data from the file, to make the code smaller and efficient I could  have made a different function that reads the data from the given files and removes unwanted text like spaces, commas etc., this function can load the required data into the strings and integers as per the requirement. We cannot remove the default constructer from Movie and Book as it is where all the values are assigned and initialized.
+I faced some difficulties in SpellChecker.cpp like defining the constructor but I overcame it by going through the notes given by the professor, other than that I also got some problem while writing the Collection.h’s operator += function, I faced memory leak and reading error but after looking at the question multiple times and searching the possible solutions in the lecture, I completed it.
+

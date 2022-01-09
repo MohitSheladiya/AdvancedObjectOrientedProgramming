@@ -1,0 +1,10 @@
+/*
+Name:          Mohit Kishorbhai Sheladiya
+Student ID:    117979203
+Student Email: mksheladiya@myseneca.ca
+Date:          26/09/19
+*/
+// I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+This workshop has taught me many new concepts, like auto, clock functions, seekg(), move constructor, move assignment operator and so on. The workshop contained a data type named auto which helped me define a complicated data type. The seekg() function is defined in the iostream library which helped me get an arbitrary position in the ‘f’ file in one argument constructor, it is declared either as seekg(0) or seekg(ios::beg). We also learned the declaration of the move constructor and operator, and how to use move(). We can use it to indicate that an object’s properties can be transferred from one to another object. Move operators helps to move memory without making a copy so that the memory allocation is not required; hence we can say that this process is more efficient. 
+To conclude, this workshop helped me know the difference between the copy (&) and move (&&) operations that would help me in the future labs and assignments. 
